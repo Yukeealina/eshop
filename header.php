@@ -96,9 +96,9 @@
 							<div class="search-bar">
 								<select>
 									<option selected="selected">All Category</option>
-									<option>watch</option>
-									<option>mobile</option>
-									<option>kid’s item</option>
+									<option>Cake</option>
+									<option>Pastries</option>
+									<option>Cake’s accessories</option>
 								</select>
 								<form>
 									<input name="search" placeholder="Search Products Here....." type="search">
