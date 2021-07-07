@@ -49,7 +49,7 @@
 					<div class="single-banner">
 						<img src="https://via.placeholder.com/600x370" alt="#">
 						<div class="content">
-							<p>Bag Collectons</p>
+							<p>Accessories collection</p>
 							<h3>Accessories</h3>
 							<a href="#">Shop Now</a>
 						</div>
