@@ -96,7 +96,7 @@
 							<div class="search-bar">
 								<select>
 									<option selected="selected">All Category</option>
-									<option>watch</option>
+									<option>Kids  Alina </option>
 									<option>mobile</option>
 									<option>kid’s item</option>
 								</select>
