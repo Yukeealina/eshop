@@ -38,7 +38,7 @@
 						<img src="https://via.placeholder.com/600x370" alt="#">
 						<div class="content">
 							<p>Cakes</p>
-							<h3>Wedding cake</h3>
+							<h3>Marriage cake</h3>
 							<a href="#">Discover Now</a>
 						</div>
 					</div>
